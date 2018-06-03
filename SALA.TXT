@@ -1,0 +1,5 @@
+Use WASD para movimentar-se e
+entrar em uma sala para obter
+informa‡oes dela.
+
+
